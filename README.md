@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mukesh sablani
-- 👀 I’m interested in Data analysis,Power BI Consultant Machine learning, Visualization, Python , Power Bi, EDA ,Webscraping
+- 👀 I’m interested in Data analysis,Power BI Consultant, Visualization, Python , Power Bi, EDA ,Webscraping
 - 🌱 I’m currently working in Associate Profile
 - 💞️ I’m looking to collaborate on ...
 - 📫 If anyone want to reach me so to help their project like data analysis, Machine learning project
